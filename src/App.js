@@ -41,6 +41,6 @@ function App() {
 }
 
 //<Bienvenido message="Hola welcome props" nombre="Diuks"/>
-// Esto va después de img
+// Esto va después de img otro cambio
 
 export default App;
